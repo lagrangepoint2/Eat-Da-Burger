@@ -1,0 +1,14 @@
+body {
+  background-color: #e5cb7a;
+  font-family: "Press Start 2P", cursive;
+}
+
+.jumbotron {
+  background-color: #32c704;
+}
+
+.button {
+  color: #ec3521;
+  background-color: #32c704;
+  margin: 0 auto;
+}
